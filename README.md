@@ -1,4 +1,4 @@
-# NoteBooksProcesamientoImagenesIA
+# NoteBooks Procesamiento de Imágenes Biomédicas con Inteligencia Artificial
 En este repositorio encontrarás:
 
 **Actividad 1: Procesamiento Básico de Imágenes**
