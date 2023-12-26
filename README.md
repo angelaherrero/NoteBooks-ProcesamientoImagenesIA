@@ -1,5 +1,5 @@
 # NoteBooks-ProcesamientoImagenesIA
-En este repositorio, encontrarás:
+En este repositorio encontrarás:
 
 **Actividad 1: Procesamiento Básico de Imágenes**
 - Lectura de imagen, conversión a escala de grises y umbralización de imagen utilizando diferentes métodos
