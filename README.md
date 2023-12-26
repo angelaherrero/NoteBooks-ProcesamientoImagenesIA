@@ -1,4 +1,4 @@
-# NoteBooks-ProcesamientoImagenesIA
+# NoteBooksProcesamientoImagenesIA
 En este repositorio encontrarás:
 
 **Actividad 1: Procesamiento Básico de Imágenes**
